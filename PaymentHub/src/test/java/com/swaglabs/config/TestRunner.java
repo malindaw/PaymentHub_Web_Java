@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features = "",
-		glue = ""		
+		glue = "com.swaglabs.SD"		
 		)
 
 public class TestRunner {
